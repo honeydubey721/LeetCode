@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/honeydubey721/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/honeydubey721/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
@@ -19,9 +20,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
