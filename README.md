@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/honeydubey721/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/honeydubey721/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/honeydubey721/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/honeydubey721/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
@@ -25,6 +26,7 @@
 | [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/honeydubey721/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/honeydubey721/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/honeydubey721/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -35,4 +37,5 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/honeydubey721/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/honeydubey721/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
