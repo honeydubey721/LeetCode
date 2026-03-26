@@ -65,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/honeydubey721/LeetCode/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/honeydubey721/LeetCode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
