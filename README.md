@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/honeydubey721/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/honeydubey721/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/honeydubey721/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/honeydubey721/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/honeydubey721/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/honeydubey721/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/honeydubey721/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/honeydubey721/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/honeydubey721/LeetCode/tree/main/0204-count-primes/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
