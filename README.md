@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/honeydubey721/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/honeydubey721/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/honeydubey721/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honeydubey721/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/honeydubey721/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -46,9 +47,11 @@
 | [0018-4sum](https://github.com/honeydubey721/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/honeydubey721/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honeydubey721/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honeydubey721/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
