@@ -51,6 +51,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honeydubey721/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/honeydubey721/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/honeydubey721/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/honeydubey721/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Bit Manipulation
