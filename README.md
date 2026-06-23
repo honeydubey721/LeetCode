@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/honeydubey721/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | [0056-merge-intervals](https://github.com/honeydubey721/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/honeydubey721/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
