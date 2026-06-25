@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/honeydubey721/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/honeydubey721/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Dynamic Programming
@@ -105,6 +106,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/honeydubey721/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
@@ -126,5 +128,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/honeydubey721/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/honeydubey721/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
