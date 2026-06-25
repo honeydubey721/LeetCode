@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/honeydubey721/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/honeydubey721/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/honeydubey721/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -122,4 +123,8 @@
 | [0238-product-of-array-except-self](https://github.com/honeydubey721/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/honeydubey721/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/honeydubey721/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
