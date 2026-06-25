@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honeydubey721/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/honeydubey721/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/honeydubey721/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/honeydubey721/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -118,6 +119,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/honeydubey721/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/honeydubey721/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
