@@ -1,6 +1,9 @@
+// this is also solved by sliding window...
+
 class Solution {
+
     public int lengthOfLongestSubstring(String s) {
-        int[] map = new int[256];
+        int[] map = new int[256]; // stores the ascii value of character
         int left = 0, max = 0;
 
         for (int right = 0; right < s.length(); right++) {
