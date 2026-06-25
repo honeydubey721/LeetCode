@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/honeydubey721/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/honeydubey721/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -109,4 +110,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
