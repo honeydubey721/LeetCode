@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/honeydubey721/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0724-find-pivot-index](https://github.com/honeydubey721/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/honeydubey721/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/honeydubey721/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
