@@ -1,3 +1,4 @@
+//solving it by XOR method...
 class Solution {
     public int singleNumber(int[] nums) {
 
