@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/honeydubey721/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/honeydubey721/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/honeydubey721/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/honeydubey721/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/honeydubey721/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -65,6 +66,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/honeydubey721/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/honeydubey721/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/honeydubey721/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honeydubey721/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -72,6 +74,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/honeydubey721/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0493-reverse-pairs](https://github.com/honeydubey721/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/honeydubey721/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Indexed Tree
