@@ -9,12 +9,12 @@ class Solution {
         int maxSum = sum;
         
         for (int i = k; i < nums.length; i++) {
-            sum += nums[i] - nums[i - k];
+            sum += nums[i] - nums[i - k]; // updating the sum after the first k value
             maxSum = Math.max(maxSum, sum);
         }
         
         return (double) maxSum / k;
     }
 }
-
+// this is sliding window technique...
 // first we initiate the sum them we traverse how much we have to find and then add it to the sum and store the value into the maxsum and then traverse from k to array kength and then update the sum and find maxsum if larger then previous and retuen it
