@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/honeydubey721/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/honeydubey721/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0912-sort-an-array](https://github.com/honeydubey721/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/honeydubey721/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,10 +51,12 @@
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0912-sort-an-array](https://github.com/honeydubey721/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/honeydubey721/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/honeydubey721/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/honeydubey721/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/honeydubey721/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 <!---LeetCode Topics End-->
