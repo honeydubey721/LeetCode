@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/honeydubey721/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/honeydubey721/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/honeydubey721/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0229-majority-element-ii](https://github.com/honeydubey721/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Dynamic Programming
@@ -98,6 +99,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/honeydubey721/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/honeydubey721/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/honeydubey721/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/honeydubey721/LeetCode/tree/main/0204-count-primes/) | Medium |
@@ -117,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/honeydubey721/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/honeydubey721/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/honeydubey721/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/honeydubey721/LeetCode/tree/main/0389-find-the-difference/) | Easy |
